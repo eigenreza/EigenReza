@@ -24,4 +24,4 @@ A production-style prototype for uncertainty-aware financial risk analysis. The 
 
 - Postdoctoral Scientist, Bayesian Deep Learning, NORCE Norwegian Research Centre
 - PhD, Operations Research / Applied Mathematics, NHH Norwegian School of Economics
-- MSc, Applied and Computational Mathematics, University of Bergen
+- MSc, Applied and Computational Mathematics, University of Bergen, Bergen, Norway
